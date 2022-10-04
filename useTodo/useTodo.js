@@ -1,6 +1,6 @@
 import { useEffect } from 'react'
 import { useReducer } from 'react'
-import { TodoReducer } from '../07-useReducer/TodoReducer'
+import { TodoReducer } from './TodoReducer'
 
 
 export const useTodo = () => {
